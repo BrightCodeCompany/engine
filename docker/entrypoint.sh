@@ -1,4 +1,9 @@
-#!/bin/bash
+#!/usr/bin/env bash
+#
+# SPDX-License-Identifier: MPL-2.0
+# SPDX-FileCopyrightText: 2023 NextGen Healthcare
+#
+
 set -e
 
 APP_DIR=/opt/engine
